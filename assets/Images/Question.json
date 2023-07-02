@@ -1,0 +1,163 @@
+{
+    "success":true,
+    "message":"",
+    "resp":"1",
+    "Question":[
+
+  {
+    "type":"Game Quiz",
+    "data":[
+        {
+          "answerId":3,
+            "title":"Question1",
+
+            "answers":[
+                {"id":1,"answer":"game"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"1"}
+            ]
+            
+        },
+        {
+            "answerId":2,
+            "title":"Question2",
+            "answers":[
+                {"id":1,"answer":"22"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"2"}
+            ]
+        },
+        {
+            "answerId":2,
+            "title":"Question3",
+            "answers":[
+                {"id":1,"answer":"sdfsf"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"3"}
+            ]
+        },
+        {
+            "answerId":1,
+            "title":"Question4",
+            "answers":[
+                {"id":1,"answer":"22"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"4"}
+            ]
+        },
+        {
+            "answerId":1,
+            "title":"Question5",
+            "answers":[
+                {"id":1,"answer":"5555"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"5"}
+            ]
+        }
+    ]
+  },
+
+  {
+    "type":"Sports Quiz",
+    "data":[
+        {
+         
+            "answerId":2,
+            "title":"Question1",
+
+            "answers":[
+                {"id":1,"answer":"sports"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"1"}
+            ]
+            
+        },
+        {
+            "answerId":3,
+            "title":"Question2",
+            "answers":[
+                {"id":1,"answer":"sports"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"2"}
+            ]
+        },
+        {
+            "answerId":3,
+            "title":"Question3",
+            "answers":[
+                {"id":1,"answer":"sports"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"3"}
+            ]
+        },
+        {
+            "answerId":1,
+            "title":"Question4",
+            "answers":[
+                {"id":1,"answer":"sports"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"4"}
+            ]
+        }
+    ]
+  },
+  
+  {
+    "type":"G.K Quiz",
+    "data":[
+        {
+           
+            "answerId":1,
+            "title":"Question1",
+
+            "answers":[
+                {"id":1,"answer":"G.K"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"1"}
+            ]
+            
+        },
+        {
+            "answerId":1,
+            "title":"Question2",
+            "answers":[
+                {"id":1,"answer":"G.K"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"2"}
+            ]
+        },
+        {
+            "answerId":3,
+            "title":"Question3",
+            "answers":[
+                {"id":1,"answer":"G.K"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"3"}
+            ]
+        },
+        {
+            "answerId":3,
+            "title":"Question4",
+            "answers":[
+                {"id":1,"answer":"G.K"},
+                {"id":2,"answer":"fdgdg"},
+                {"id":3,"answer":"dsfsdf"},
+                {"id":4,"answer":"4"}
+            ]
+        }
+    ]
+  }
+               ]
+}

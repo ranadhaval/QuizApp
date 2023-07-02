@@ -1,0 +1,39 @@
+class Strings {
+  static const String appName = 'Quiz App';
+  static const String leaderBoard = 'Leader Board';
+  static const String quizes = 'Quizes';
+  static const String login = 'Login';
+  static const String signUp = 'Signup';
+  static const String score = "score";
+  static const String password = "password";
+  static const String gameQuiz = "Game Quiz";
+  static const String quizBasedOnGames = 'Quiz based on games';
+  static const String sportsQuiz = 'Sports Quiz';
+  static const String liveSportsGameQuiz = 'Live sports games Quiz';
+  static const String gkQuiz = 'G.K Quiz';
+  static const String generalKnowledgeBasedQuiz =
+      'General Knowledge based Quiz';
+  static const String time = 'Time';
+  static const String marks = 'Marks';
+  static const String type = "type";
+  static const String exit = 'Exit';
+  static const String quiz = 'Quiz';
+  static const String scoreOutOf33 = 'Score Out of 33';
+  static const String username = "Username";
+  static const String no ="No.";
+  static const String enterEmail = 'Enter Email';
+  static const String enterPassword = 'Enter Password';
+  static const String wrongInput = 'Wrong input';
+  static const String emptyString = '';
+  static const String ok = "Ok";
+  static const String error = "Error";
+  static const String uid = "uid";
+  static const String createAccount = 'Create an account';
+  static const String loginIntoYourAccount = 'login into your account';
+  static const String errorFound = 'Error Found';
+  static const String user = "User";
+  static const String user1 = "user";
+  static const String homeGreeting = 'Hello User Your Current Max Score is ';
+  static const String startQuiz = "Start Quiz";
+  static const String here = 'here....';
+}
