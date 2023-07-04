@@ -10,13 +10,11 @@ import 'package:quiz/util/constants.dart';
 class HomeController extends GetxController {
   GetStorage storage = GetStorage();
   String? uid;
-
   @override
   void onInit() async {
     uid = storage.read(Strings.uid).toString();
     await fetchData();
     await getDatabyUId();
-
     super.onInit();
   }
 
